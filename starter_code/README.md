@@ -1,4 +1,4 @@
-# CS236DefaultProject
+# CS236Project
 
 This is the default project for [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/). You'll be implementing text-conditioned image generation.
 
